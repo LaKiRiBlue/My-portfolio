@@ -7,7 +7,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "deploy": "npm run build "
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^2.1.4",
